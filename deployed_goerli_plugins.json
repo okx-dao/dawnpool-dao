@@ -1,0 +1,28 @@
+{
+  "greeter": {
+    "pluginRepo": "0x9076E08345C125f1bBCbb238306D58Ac3dcd8D14",
+    "instance": "0x70c5c9ac0d09e5cd56e08b0221961cbd1fedeb44",
+    "version": [{
+      "release": 1,
+      "build": 1,
+      "setup": "0xd6483E5b8D4aadFdBbEE6A815b6A498d210F9734"
+    }]
+  },
+  "dawnpool-settings": {
+    "pluginRepo": "0xbe6fF33bD37F7e5b50BC3d16684cD72854D8AF49",
+    "instance": "0x6ea5cedaebae60886764d8fa6764f3f780c94c98",
+    "version": [{
+      "release": 1,
+      "build": 1,
+      "setup": "0x7480c0687679b0e99f6d8eecc2efa75a91844195"
+    }, {
+      "release": 1,
+      "build": 2,
+      "setup": "0xc84CC84cc6aad729FAa7C8a76fF5dae5dd7628d7"
+    }, {
+      "release": 2,
+      "build": 1,
+      "setup": "0x078026c5063126BBEDc657CE72ECa27C5c82C9E5"
+    }]
+  }
+}
